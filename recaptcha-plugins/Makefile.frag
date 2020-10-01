@@ -1,4 +1,5 @@
-# -*- Mode: Makefile -*-
+# -*- Mode:Makefile -*-
+#(makefile)
 
 distdir=$(PLUGINNAME)-$(VERSION)
 
